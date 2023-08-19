@@ -1,5 +1,5 @@
 # Cifra_cesar_comunicacao_UDP
-## integrantes: 
+## Integrantes: 
 ### Rodrigo Emiliano de Oliveira - 081190004
 ### Lucas Santos Costa -           081190015
 ### Gabriel Alves Gouveia -        081190038
@@ -10,6 +10,9 @@ Esse repositório demonstra a utilização da cifra de cesar para criptografar a
 A criptografia de cesar é monoalfabética e consiste no desclocamento de cada símbolo da mensagem criptografada em outro símbolo do mesmo alfabeto deslocado "n" posições.
 
 No código a chave utilizada é 3, logo, cada letra da mensagem enviada será deslocada 3 caracteres na tabela utf-8.
+
+Exemplo:
+<img title="exemplo" alt="Alt text" src="/exemplo.png">
 
 
 
